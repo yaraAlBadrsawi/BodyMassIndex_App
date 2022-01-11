@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab_assigment_q2</string>
+
+    <string name="length">length in meter</string>
+    <string name="weight">weight in Kg</string>
+    <string name="clear">clear</string>
+    <string name="result">result</string>
+    <string name="description">Body mass index is a measurement which determines which weight category a person belongs to</string>
+    <string name="start">start</string>
+    <string name="underWeight">under Weight</string>
+    <string name="NormalWeight">Normal Weight</string>
+    <string name="overWeight">overWeight</string>
+    <string name="obeseType1">obese Type1</string>
+    <string name="obeseType2">obese Type2</string>
+    <string name="obeseType3">obese Type3</string>
+    <string name="BMI">BMI calculation</string>
+    <string name="calculate">calculate</string>
+</resources>
